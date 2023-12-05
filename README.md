@@ -1,6 +1,6 @@
 # The First Commit
 
-![Logo Dự Án](link_to_logo.png)
+![IMG_9891 2](https://github.com/hlongday-creator/Test/assets/97356724/9a3140dd-72f7-46fe-bb8b-38f9228971f8)
 
 Mô tả ngắn về dự án và lý do tại sao nó quan trọng.
 
